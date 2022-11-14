@@ -1,0 +1,7 @@
+jwt:
+  time: 30000
+  value: userserviceuserserviceserserviceuserserviceuserserviceserservice
+  name: "X-TOKEN"
+
+gateway:
+  ip: 192.168.219.119
